@@ -1,0 +1,41 @@
+.sidebar-box{
+margin-bottom: 30px;
+padding: 25px;
+font-size: 15px;
+width:100%;
+background: #fff;
+}
+
+
+.search-form .form-group{
+position: relative;
+}
+
+.sidebar-box h3{
+font-size: 20px;
+text-transform: uppercase;
+margin-bottom: 30px;
+font-weight: 600;
+letter-spacing: 2px;
+}
+
+.categories li, .sidelink li{
+position: relative;
+margin-bottom: 10px;
+padding-bottom: 10px;
+border-bottom: 1px dotted #dee2e6;
+list-style: none;
+}
+
+.categories li a, .sidelink li a{
+display: block;
+color: black;
+}
+
+.categories li a span, .sidelink li a span{
+position: absolute;
+right: 0;
+top:0;
+color:#ccc;
+
+}

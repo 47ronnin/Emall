@@ -1,0 +1,16 @@
+/*Special price template*/ 
+#special-price{
+    .grid{
+        display:grid;
+        grid-template-columns: 220px 220px 220px 220px 220px;
+        
+    }
+
+    .grid .grid-item{
+        
+        margin-right: 1.2rem;
+        margin-top: 1rem;
+    }
+
+    
+}
