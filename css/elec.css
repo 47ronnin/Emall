@@ -1,0 +1,31 @@
+.carousel-item{
+    height: 32rem;
+    position: relative;
+    background-position: center;
+    background-color: black;
+    background-size: cover;
+
+
+}
+.overlay-image{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+    opacity: 0.5;
+    background-position: center;
+    background-size: cover;
+}
+.caurosel-caption{
+    position: absolute;
+    padding-bottom: 50px;
+}
+-webkit-text-size-adjust: 100%;
+font-size: 14px;
+line-height: 20px;
+color: #0F1111;
+font-family: "Amazon Ember",Arial,sans-serif;
+direction: ltr;
+box-sizing: border-box;
+margin-bottom: 16px!important;
